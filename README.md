@@ -1,23 +1,57 @@
-<h1 align="center">Hi 👋, I'm Sakthivel</h1>
-<h3 align="center">A passionate react/ nextjs developer</h3>
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<img src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif" />
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=React+%2F+Next.js+Developer;2%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on **Baboolsoft**
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Next js**
+I'm Sakthivel, a passionate developer specializing in React and Next.js. Currently working at Baboolsoft, I'm dedicated to creating efficient and user-friendly web applications.
 
-- 👨‍💻 All of my projects are available at [https://sakthivelp.vercel.app/](https://sakthivelp.vercel.app/)
+- 🔭 Currently working at **Baboolsoft**
+- 🌱 Expanding my knowledge in **Next.js**
+- 💻 Check out my portfolio: [sakthivelp.vercel.app](https://sakthivelp.vercel.app/)
+- 📫 Reach me at: **sakthivelpk2002@gmail.com**
 
-- 📫 How to reach me **sakthivelpk2002@gmail.com**
+## 🛠️ My Tech Stack
 
-- 📄 Know about my experiences [https://sakthivelp.vercel.app/](https://sakthivelp.vercel.app/)
+```javascript
+const techStack = {
+    languages: ['JavaScript', 'TypeScript'],
+    frontend: ['React.js', 'Next.js', 'Vue.js'],
+    styling: ['Tailwind CSS', 'Bootstrap', 'CSS3'],
+    backend: ['PHP', 'MySQL'],
+    tools: ['Chart.js'],
+    currently_learning: ['Advanced Next.js Features']
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 📊 Most Used Languages
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
+
+## 🔥 My Stats
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+## 🎯 Skills
+
+<p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=psvel332&show_icons=true&locale=en&layout=compact" alt="psvel332" /></p>
+---
+<div align="center">
+    <i>Happy Coding!</i> 😊
+</div>
