@@ -18,7 +18,7 @@ I'm Sakthivel, a passionate developer specializing in React and Next.js. Current
 ```javascript
 const techStack = {
     languages: ['JavaScript', 'TypeScript'],
-    frontend: ['React.js', 'Next.js', 'Vue.js'],
+    frontend: ['React.js', 'React Native', 'Next.js', 'Vue.js'],
     styling: ['Tailwind CSS', 'Bootstrap', 'CSS3'],
     backend: ['PHP', 'MySQL'],
     tools: ['Chart.js'],
@@ -28,15 +28,20 @@ const techStack = {
 
 ## 📊 Most Used Languages
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</div>
+```text
+JavaScript  ███████████████░░░░  80%
+TypeScript  █████████████████░░  85%
+```
 
 ## 🔥 My Stats
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
+```text
+⭐ Total Commits (2024): 250+
+🎯 Current Streak: 15 days
+📦 Public Repositories: 12
+🔥 Most Active: React.js, Next.js Projects
+🚀 Code Efficiency: High
+```
 
 ## 🎯 Skills
 
@@ -46,6 +51,7 @@ const techStack = {
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
